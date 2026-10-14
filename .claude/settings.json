@@ -1,0 +1,14 @@
+{
+  "enabledPlugins": {
+    "fabric-skills@fabric-collection": true,
+    "powerbi-authoring@fabric-collection": true
+  },
+  "extraKnownMarketplaces": {
+    "fabric-collection": {
+      "source": {
+        "source": "github",
+        "repo": "microsoft/skills-for-fabric"
+      }
+    }
+  }
+}
